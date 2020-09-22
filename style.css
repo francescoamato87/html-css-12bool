@@ -1,0 +1,16 @@
+body{
+  font-family: sans-serif;
+}
+
+h1,
+h2{
+  text-align: center;
+  margin: 30px;
+}
+
+.box{
+  text-align: center;
+  padding: 10px;
+  background: gold;
+  border: 1px solid rgba(0.0.0.0.1)
+}
